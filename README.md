@@ -18,7 +18,7 @@ I ceated a command-line application that accepts user input to generate a readme
 
 ## Usage
 <li> Walkthrough Video : 
-<li> Github Repository Containing the code : 
+<li> Github Repository Containing the code : https://github.com/Jimbobster/Readme-Generator
 
 ## Credits
 Inquirer NPM
