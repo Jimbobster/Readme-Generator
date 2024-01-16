@@ -17,7 +17,9 @@ I ceated a command-line application that accepts user input to generate a readme
 <li>When a user clicks on the links in the Table of Contents, they are taken to the corresponding section of the README
 
 ## Usage
-<li> Walkthrough Video : <video src="Video%20Readme%20Walkthrough.mp4" controls title="Title"></video>
+<li> https://github.com/Jimbobster/Readme-Generator/assets/146639118/70a0cc1a-3349-4697-a15d-0d9630cefd7e
+
+
 <li> Github Repository Containing the code : https://github.com/Jimbobster/Readme-Generator
 
 ## Credits
